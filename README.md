@@ -15,3 +15,9 @@ Day 2
 lists
 tuples
 functions
+
+
+Day 3
+
+
+return_statement
